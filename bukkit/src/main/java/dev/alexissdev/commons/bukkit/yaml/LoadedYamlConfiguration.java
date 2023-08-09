@@ -1,4 +1,4 @@
-package dev.alexisdev.bukkit.yaml;
+package dev.alexissdev.commons.bukkit.yaml;
 
 import org.bukkit.configuration.InvalidConfigurationException;
 import org.bukkit.configuration.file.YamlConfiguration;

@@ -1,4 +1,4 @@
-package dev.alexisdev.storage.bukkit.location;
+package dev.alexissdev.commons.storage.bukkit.location;
 
 import org.bson.Document;
 import org.bukkit.Bukkit;

@@ -1,4 +1,4 @@
-package dev.alexisdev.bukkit.yaml;
+package dev.alexissdev.commons.bukkit.yaml;
 
 import java.io.File;
 import java.util.Collections;

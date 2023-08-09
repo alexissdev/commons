@@ -1,7 +1,7 @@
-package dev.alexisdev.storage.bukkit.item;
+package dev.alexissdev.commons.storage.bukkit.item;
 
-import dev.alexisdev.storage.bukkit.item.compound.DescriptionCompound;
-import dev.alexisdev.storage.bukkit.item.compound.EnchantmentCompound;
+import dev.alexissdev.commons.storage.bukkit.item.compound.DescriptionCompound;
+import dev.alexissdev.commons.storage.bukkit.item.compound.EnchantmentCompound;
 
 import java.util.ArrayList;
 import java.util.HashSet;

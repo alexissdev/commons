@@ -1,4 +1,4 @@
-package dev.alexisdev.storage.bukkit.item.compound;
+package dev.alexissdev.commons.storage.bukkit.item.compound;
 
 import java.util.Collections;
 import java.util.HashSet;

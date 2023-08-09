@@ -1,4 +1,4 @@
-package dev.alexisdev.bukkit.yaml;
+package dev.alexissdev.commons.bukkit.yaml;
 
 import org.bukkit.configuration.InvalidConfigurationException;
 import org.bukkit.plugin.Plugin;
@@ -6,7 +6,7 @@ import org.bukkit.plugin.Plugin;
 import java.io.File;
 import java.io.IOException;
 
-import static dev.alexisdev.validate.Validate.notNull;
+import static dev.alexissdev.commons.validate.Validate.notNull;
 
 public class YamlConfigurationBuilder {
 

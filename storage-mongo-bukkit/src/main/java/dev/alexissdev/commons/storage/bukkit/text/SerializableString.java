@@ -1,4 +1,4 @@
-package dev.alexisdev.storage.bukkit.text;
+package dev.alexissdev.commons.storage.bukkit.text;
 
 import org.bson.Document;
 import team.unnamed.pixel.storage.codec.ModelReader;

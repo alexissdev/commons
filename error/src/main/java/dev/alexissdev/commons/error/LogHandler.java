@@ -1,4 +1,4 @@
-package dev.alexisdev.error;
+package dev.alexissdev.commons.error;
 
 import org.jetbrains.annotations.Nullable;
 

@@ -1,4 +1,4 @@
-package dev.alexisdev.bukkit.timer;
+package dev.alexissdev.commons.bukkit.timer;
 
 import org.bukkit.plugin.Plugin;
 import org.jetbrains.annotations.NotNull;

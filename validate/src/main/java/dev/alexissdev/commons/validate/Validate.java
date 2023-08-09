@@ -1,4 +1,4 @@
-package dev.alexisdev.validate;
+package dev.alexissdev.commons.validate;
 
 public interface Validate {
 
