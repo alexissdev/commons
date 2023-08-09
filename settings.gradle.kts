@@ -3,5 +3,6 @@ rootProject.name = "commons"
 include(
     "validate",
     "error",
-    "bukkit"
+    "bukkit",
+    "storage-mongo-bukkit"
 )
